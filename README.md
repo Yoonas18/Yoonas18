@@ -74,7 +74,7 @@ Active researcher on **Bugcrowd**, focused on:
 
 - 🏅 **Certified Ethical Hacker (CEH v12)** — EC-Council
 - 🏅 **Certified AppSec Practitioner (CAP)** — SecOps Group
-- 🏅 **Certified IT Infrastructure & Cyber SOC Analyst** — RedTeam Hacker Academy
+- 🏅 **Certified Cyber Security Educator Professional** — Redteamleaders
 
 ---
 
