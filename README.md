@@ -11,7 +11,7 @@ SOC operations, SIEM monitoring, and bug bounty research. I build security tools
 run attack simulations in home labs, and independently hunt for vulnerabilities on
 platforms like **Bugcrowd**. Certified Ethical Hacker (CEH v12).
 
-- 🔭 Currently working as **Cybersecurity Researcher** at Offenso Hackers Academy
+- 🔭 Currently working as **Senior Cybersecurity Researcher** at Offenso Hackers Academy
 - 🐛 Actively hunting bugs on **Bugcrowd**
 - 🛠 Building: **FIM & Security Automation Platform** (Python + n8n)
 - 📚 Always learning — currently exploring **threat intelligence & malware analysis**
